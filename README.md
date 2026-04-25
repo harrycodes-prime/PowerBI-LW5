@@ -5,5 +5,5 @@ Harry M. Dajunos
 Laboratory Work 5 - Laboratory Work 5 Activity | Applying DAX Fundamentals in Power BI: From Measures to Contextual Analysis
 ## PDF Documentation
 
-[Click here to view the PDF] (./Dajunos_Harry_LW5.pdf)
+[Click here to view the PDF](./Dajunos_Harry_LW5.pdf)
 
