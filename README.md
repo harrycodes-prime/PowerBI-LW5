@@ -1,3 +1,9 @@
-# PowerBI-LW5
+# Power BI Laboratory Activity
+## Submitted By:
+Harry M. Dajunos
+## Laboratory Title:
+Laboratory Work 5 - Laboratory Work 5 Activity | Applying DAX Fundamentals in Power BI: From Measures to Contextual Analysis
+## PDF Documentation
 
-Google Slides: https://docs.google.com/presentation/d/1OUESV3Yp5_jweMx-Efhr_rNz-CU5KdVHn1y5RAY6lc0/edit?usp=sharing
+[Click here to view the PDF] (./Dajunos_Harry_LW5.pdf)
+
